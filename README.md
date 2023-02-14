@@ -10,7 +10,7 @@ Use the [Issues](https://github.com/blaylockbk/WG-OD/issues) tab to submit new i
 
 Use the [Discussion](https://github.com/blaylockbk/WG-OD/discussions) tab to discuss non-issue topics.
 
-Find general group information in the [Wiki](https://github.com/blaylockbk/WG-OD/wiki)
+Find general group information in the [Wiki](https://github.com/blaylockbk/WG-OD/wiki) (not available for private repos)
 
 
 ---
