@@ -8,7 +8,7 @@ The **Working Group on Observational Data**, is a subgroup of the Committee for 
 
 Use the [Issues](https://github.com/blaylockbk/WG-OD/issues) tab to submit new issues.
 
-Use the [Discussion]((https://github.com/blaylockbk/WG-OD/discussions) tab to discuss non-issue topics.
+Use the [Discussion](https://github.com/blaylockbk/WG-OD/discussions) tab to discuss non-issue topics.
 
 Find general group information in the [Wiki](https://github.com/blaylockbk/WG-OD/wiki)
 
